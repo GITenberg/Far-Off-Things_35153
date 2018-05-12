@@ -1,0 +1,30 @@
+_repo: Far-Off-Things_35153
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Machen, Arthur
+    birthdate: 1863
+    deathdate: 1947
+    gutenberg_agent_id: '214'
+    url: http://www.gutenberg.org/2009/agents/214
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Machen
+description: This 1922 nonfiction work is the first of a three-volume autobiography.
+  Arthur Machen was one of the foremost practitioners of Britain's Gothic revival
+  of literary decadence and horror, a movement which sometimes included Oscar Wilde
+  and Robert Louis Stevenson. He was also an actor, mystic, and tragic widower.
+gutenberg_issued: '2011-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35153'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Machen, Arthur, 1863-1947'
+- !lcc 'PR'
+title: Far Off Things
+url: http://www.gutenberg.org/ebooks/35153
